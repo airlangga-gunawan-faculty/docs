@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "aspen",
+  "name": "Frontier",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#273817",
+    "light": "#ECECEC",
+    "dark": "#000000"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/FSymbolonBlack-Small.jpg",
   "navigation": {
     "tabs": [
       {
